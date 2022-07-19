@@ -1,0 +1,9 @@
+Deploying a recommender system for the movie-lens dataset
+This is a course Project of the course "Machine Learning". In the following pages, I will present the basic reccomendation methods we applied in our project: 
+content-based, KNN, SVD, SGD.
+
+
+SVD
+Singular value decomposition (SVD) is a collaborative filtering method for movie recommendation.
+
+
